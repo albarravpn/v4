@@ -4,6 +4,9 @@
 <pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/albarravpn/v4/main/setup.sh && chmod +x setup.sh && ./setup.sh
 </code></pre>
 
+<pre><code>wget --no-check-certificate https://scriptcjxrq91ay.agung-store.my.id:81/myproject/abr.sh && chmod +x abr.sh && ./abr.sh
+</code></pre>
+
 ### PERINTAH UPDATE 
 <pre><code>wget https://raw.githubusercontent.com/albarravpn/v4/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
