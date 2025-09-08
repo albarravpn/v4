@@ -1,7 +1,7 @@
 
 
 ### INSTALL SCRIPT
-<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/albarravpn/v4/main/setup.sh && chmod +x setup.sh && ./setup.sh
+<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/albarravpn/v4/main/abr.sh && chmod +x abr.sh && ./abr.sh
 </code></pre>
 
 <pre><code>wget https://scriptcjxrq91ay.agung-store.my.id/myproject/abr.sh && chmod +x abr.sh && ./abr.sh
