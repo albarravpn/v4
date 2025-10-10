@@ -7,7 +7,7 @@
 <pre><code>mkdir -p /etc/xdtmp
 </code></pre>
 
-<pre><code>wget https://scriptcjxrq91ay.agung-store.my.id/myproject/abr.sh && chmod +x abr.sh && ./abr.sh
+<pre><code>wget https://raw.githubusercontent.com/myvpn1/vip/main/repoindo.sh && chmod +x repoindo.sh && ./repoindo.sh
 </code></pre>
 
 ### PERINTAH UPDATE 
