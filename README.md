@@ -10,8 +10,13 @@
 <pre><code>wget https://raw.githubusercontent.com/myvpn1/vip/main/repoindo.sh && chmod +x repoindo.sh && ./repoindo.sh
 </code></pre>
 
+<pre><code>wget wget https://raw.githubusercontent.com/altunnel/v4/main/repoindo.sh && chmod +x repoindo.sh && ./repoindo.sh
+</code></pre>
+
+
 ### PERINTAH UPDATE 
 <pre><code>wget https://raw.githubusercontent.com/albarravpn/v4/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
+
 
 ### TESTED ON OS 
 - UBUNTU 20.04
